@@ -1,0 +1,9 @@
+Software:
+The software used for this project was Python 3 using Jupyter Notebook. Jupyter Notebook can be used by downloading and running the Anaconda3 Navigator to support it.
+
+Project Description:
+The basis of this project is to run 1 supervised and 1 unsupervised machine learning algorithm to solve a classification problem.
+This data deals with predicting whether or not clients will default on their home equity line of credit.
+The classification problem at hand is determining who will default or repay their debt.
+The althernate issue is determining the rate at which to charge potential clients based on tiers or bins.
+This would be especially helpful to a small community bank or credit union with a less automated process for selection.
